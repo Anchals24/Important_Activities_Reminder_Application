@@ -6,7 +6,7 @@
 - And that is to create an application which will remind us of important activities like drinking water, having lunch, snacks etc by sending notifications on the laptop.
   Hence, I tried implementing it. :p
 
-**Let's run the code**
+**So, Hey! Let's run the code**
 
 ```bash
 virtualenv venv
