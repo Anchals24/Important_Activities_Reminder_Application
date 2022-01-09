@@ -1,3 +1,4 @@
+#code for the reminder.
 from pynotifier import Notification
 from datetime import datetime, timezone, timedelta
 from time import sleep
